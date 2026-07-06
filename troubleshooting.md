@@ -1,6 +1,6 @@
 # Morlane Troubleshooting Guide
 
-Use this guide for v1 public beta issues. Morlane keeps command output visible where practical; start with the exact error shown in the app, then check the relevant file path listed below.
+If you encounter an issue, first read the exact error message shown by Morlane. Most setup, training, and export failures include detailed logs and file locations to help identify the cause.
 
 ## Python Is Not Detected
 
