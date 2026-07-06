@@ -71,22 +71,11 @@ The sample project is for workflow demonstration only. It is not a benchmark and
 
 Morlane is local-first. Project data, imported files, generated datasets, configuration, training logs, checkpoints, exports, and saved playground examples remain in local project folders unless you move or share them. Runtime setup may contact package indexes through `pip install -r requirements.txt`.
 
-Read [docs/privacy-notice.md](docs/privacy-notice.md) for the detailed public beta privacy note.
+Read [privacy-notice.md](privacy-notice.md) for the detailed public beta privacy note.
 
 ## Troubleshooting
 
-Use [docs/troubleshooting.md](docs/troubleshooting.md) for Python, MLX, permissions, dataset, training, inference, and export issues.
-
-## Release Readiness
-
-Public beta release preparation lives in:
-
-- [docs/version-build-review.md](docs/version-build-review.md)
-- [docs/public-beta-release-checklist.md](docs/public-beta-release-checklist.md)
-- [docs/v1-smoke-test-checklist.md](docs/v1-smoke-test-checklist.md)
-
-Run focused tests before a beta candidate:
-
+Use [troubleshooting.md](troubleshooting.md) for Python, MLX, permissions, dataset, training, inference, and export issues.
 ```bash
 xcodebuild test -project Morlane.xcodeproj -scheme Morlane
 ```
