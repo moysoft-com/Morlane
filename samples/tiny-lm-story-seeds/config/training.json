@@ -1,0 +1,15 @@
+{
+  "batchSize" : 2,
+  "checkpointInterval" : 25,
+  "device" : "mlx",
+  "earlyStoppingEnabled" : false,
+  "epochs" : 1,
+  "gradientAccumulation" : 1,
+  "learningRate" : 0.0005,
+  "maxSteps" : 50,
+  "seed" : 42,
+  "validationInterval" : 25,
+  "validationSplit" : 0,
+  "warmupSteps" : 5
+}
+

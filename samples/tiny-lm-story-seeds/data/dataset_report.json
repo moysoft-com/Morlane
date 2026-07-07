@@ -1,0 +1,29 @@
+{
+  "countsByMode" : {
+    "chat" : 1,
+    "instruction" : 1,
+    "textCompletion" : 1
+  },
+  "datasetRelativePath" : "data/dataset.jsonl",
+  "duplicateCount" : 0,
+  "estimatedTokens" : 141,
+  "generatedAt" : "2026-07-06T00:00:00Z",
+  "mode" : "chat,instruction,textCompletion",
+  "recordCount" : 3,
+  "recordWarnings" : [],
+  "reportRelativePath" : "data/dataset_report.json",
+  "skippedItems" : [],
+  "sourceFiles" : [
+    {
+      "fileType" : "json",
+      "generatedRecords" : 3,
+      "skippedItems" : 0,
+      "sourceFile" : "tiny-story-seeds.jsonl",
+      "warnings" : []
+    }
+  ],
+  "totalCharacters" : 567,
+  "version" : 1,
+  "warnings" : []
+}
+

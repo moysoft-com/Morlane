@@ -1,0 +1,17 @@
+{
+  "entries" : [
+    {
+      "byteSize" : 647,
+      "fileType" : "json",
+      "id" : "F693B827-709C-4D1D-9B6E-D33EC3CB084B",
+      "importedAt" : "2026-07-06T00:00:00Z",
+      "originalFileName" : "tiny-story-seeds.jsonl",
+      "sourcePath" : "samples/datasets/tiny-story-seeds.jsonl",
+      "status" : "imported",
+      "storedRelativePath" : "data/raw/tiny-story-seeds.jsonl",
+      "warnings" : []
+    }
+  ],
+  "updatedAt" : "2026-07-06T00:00:00Z",
+  "version" : 1
+}

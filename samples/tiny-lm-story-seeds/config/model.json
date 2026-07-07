@@ -1,0 +1,13 @@
+{
+  "activation" : "gelu",
+  "attentionHeadCount" : 4,
+  "contextLength" : 64,
+  "dropout" : 0.1,
+  "embeddingSize" : 64,
+  "feedForwardSize" : 256,
+  "layerCount" : 2,
+  "templateID" : "tiny-lm",
+  "tokenizer" : "byte-level",
+  "vocabularySize" : 8192
+}
+

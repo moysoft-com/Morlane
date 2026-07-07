@@ -1,0 +1,10 @@
+{
+  "checkpointPath" : "runs/latest/checkpoints/final.safetensors",
+  "maxNewTokens" : 80,
+  "repetitionPenalty" : 1.05,
+  "stopSequences" : [],
+  "temperature" : 0.8,
+  "topK" : 40,
+  "topP" : 0.95
+}
+

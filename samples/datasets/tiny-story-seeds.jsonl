@@ -1,0 +1,4 @@
+{"text":"Morlane keeps every Tiny LM project in a local folder with editable config files, source code, data, training runs, and exports."}
+{"input":"Morlane helps users prepare text data, train a tiny local language model, test checkpoints, and export the project folder.","instruction":"Summarize the project goal.","output":"Morlane is a local Tiny LM workflow for preparing data, training, testing, and exporting editable projects."}
+{"messages":[{"content":"What should I do before training?","role":"user"},{"content":"Import data, generate the dataset, review the records, and make sure the Python runtime is ready.","role":"assistant"}]}
+
